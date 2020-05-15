@@ -1,0 +1,79 @@
+* {
+    margin: ;
+}
+
+body {
+    background-color: #00113f;
+}
+
+header {
+    margin: 0;
+}
+
+.logo {
+    color: white;
+    width: 140px;
+    margin: 0;
+    padding: 0;
+}
+
+.welcome {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    padding: 200px 0px 0px 0px;
+}
+
+.paragraph {
+    color: rgba(197, 197, 197, 0.705);
+    font-family: 'Maven Pro', sans-serif;
+    font-size: 18px;
+    width: 350px;
+    margin: 0;
+    padding: 0px 0px 0px 80px;
+}
+
+.button1 {
+    background-color: rgba(0, 104, 240, 0.924) ;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 20px 2px 0px 140px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.7s; /* Safari */
+    transition-duration: 0.7s;
+}
+
+.button2:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+  }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding-top: 0px;
+}
+
+li {
+    margin: 0;
+    padding-left: 20px;
+    float: right;
+    display: inline;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a {
+    display: block;
+    padding: 8px;
+    background-color: transparent;
+    color: whitesmoke;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+}
